@@ -1,5 +1,5 @@
 # **<u>Set Cards Game By Avinoam David</u>**
-
+![Set Cards Game Logo](./resources/LOGO.jpg)
 ## About Me
 As for the time this project was built, I'm a 2nd year Computer Science student in Ben Gurion University. To this date i have knowledge at networks, apps, big data, designing algorithms and more, and I am fluent in C++, Java/#C, Python, Node.js and SQL.  
 
